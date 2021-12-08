@@ -1,3 +1,5 @@
+I have made this prject as a part of a udemy course that I learnt from the creator JohnSmilga.
+The link to the course is https://www.udemy.com/course/react-tutorial-and-projects-course.
 ## Starter Project
 
 -   css provided (global styles, styled components)
